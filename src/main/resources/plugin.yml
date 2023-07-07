@@ -1,5 +1,5 @@
 name: ${project.name}
 version: ${project.version}
 main: com.darkender.plugins.containerpassthrough.ContainerPassthrough
-api-version: 1.14
-author: Techdoodle
+api-version: 1.20.1
+author: Techdoodle (Noltox for HeavenCube)
